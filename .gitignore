@@ -1,0 +1,14 @@
+# Ignorar archivos de editor especificos
+.vscode/
+.DS_Store
+
+# Ignorar archivos temporales del sistema
+Thumbs.db
+*.log
+
+#Ignorar los directorios de dependecias
+__pycache__/
+
+#Ignorar otros archivos de configuracion locales
+.env
+.gitconfig
