@@ -1,7 +1,7 @@
 # Exercise_Unit5_website
 
 ## Descripcion
-Este repositorio cotiene el proyecto de una web propuesto para la Unidad 5.
+Este repositorio contiene el proyecto de una web propuesto para la Unidad 5.
 
 ## Tecnologias usadas
 - HTML
